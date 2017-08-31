@@ -1,0 +1,22 @@
+module.exports = {
+  CLICK: 'CLICK',
+  SetLastChangeState: 'SetLastChangeState',
+  UpdateTreeData : "UpdateTreeData",
+  UseDefaultTreeData : "UseDefaultTreeData",
+  GetDataFromUrlForMap : "GetDataFromUrlForMap",
+  GetDataFromUrlForTree : "GetDataFromUrlForTree",
+  UpdateServerData : "UpdateServerData",
+  GetDataFromUrlForTreeAndMap : "GetDataFromUrlForTreeAndMap",
+  GlobalSearch : "GlobalSearch",
+  ClickMarker : "ClickMarker",
+  CloseSideBar : "CloseSideBar",
+  ReceiveGeoDataFromUrl : "ReceiveGeoDataFromUrl",
+  IsTyping : "IsTyping",
+  IsTrajet : "IsTrajet",
+  IsScooter : "IsScooter",
+  ToggleTable : "ToggleTable",
+  SendMapRef : "SendMapRef",
+  SendScooterTableList : "SendScooterTableList",
+  SendCheckedList : "SendCheckedList",
+  SendSession : "SendSession"
+};
